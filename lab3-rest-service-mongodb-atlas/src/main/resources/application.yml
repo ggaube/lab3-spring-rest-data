@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://gerhardgaube:gustavgans11@testgerhard.0rechap.mongodb.net/
+      database: productdb
